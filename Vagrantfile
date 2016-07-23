@@ -45,10 +45,9 @@ iptables-save
 echo "------------------------------------------------------------------"
 echo "Setup script finished."
 echo "------------------------------------------------------------------"
-echo "Pihole is preconfigured with blocklist and server7373.com and can"
-echo "be installed and setup completed with:"
+echo "Pihole is preconfigured with hosts blocklist and custom domains and"
+echo "can be installed and setup completed with:"
 echo " $ curl -L https://install.pi-hole.net/ | bash"
-echo " $ bash host-update.sh"
-echo "Running pihole installation again will update it."
+echo " $ bash host-update.sh # update everything"
 echo "------------------------------------------------------------------"
 SETUP
