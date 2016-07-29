@@ -9,6 +9,6 @@ A vagrantfile for VirtualBox, but I don't think it's dependant on anything and i
 
 ## Deploying
 
-    1.  `vagrant up` 
-    2.  After the machine boots `curl -L https://install.pi-hole.net/ | bash
+    1.  First copy the repo, go into the folder and `vagrant up` 
+    2.  After the machine boots `curl -L https://install.pi-hole.net/ | bash`
     3.  run 'host-update.sh' to update blocklists and put them into Pihole
