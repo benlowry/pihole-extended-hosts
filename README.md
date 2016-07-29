@@ -5,7 +5,7 @@ Network-wide ad and tracker blocking, similar to running Ublock and Ghostery on 
 
 The `custom.hosts` allows you to map your own domains to your private network.
 
-A vagrantfile for VirtualBox, but I don't think it's dependant on anything and it started on a Raspberry Pi 2 so it should still be compatible.
+A vagrantfile for VirtualBox, but I don't think it's dependant on anything more than Ubuntu 14.04,  and it started on a Raspberry Pi 2, the setup (see Vagrantfile) and update scripts should be compatible still.
 
 **This project is public domain and may be used or modified unconditionally.**
 
