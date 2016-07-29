@@ -1,5 +1,7 @@
 # pihole-extended-hosts
-[Pi-hole](https://pi-hole.net) (or [@pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)) supplemented by [@StevenBlack/hosts](https://github.com/StevenBlack/hosts) for privacy, security and malware.
+Network-wide ad and tracker blocking, similar to running Ublock and Ghostery on a computer but for all of your devices.
+
+[Pi-hole](https://pi-hole.net) (or [@pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)) is a DNS server supplemented by [@StevenBlack/hosts](https://github.com/StevenBlack/hosts) for privacy, security and malware.
 
 The `custom.hosts` allows you to map your own domains to your private network.
 
